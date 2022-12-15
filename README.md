@@ -2,6 +2,8 @@
 
 This code implements three model based block clustering methods. These models are based on the Dirichlet Process Mixture Model (DPMM, used for univariate dataset clustering) and extends it to multivariate datasets.
 
+Etienne Goffinet, Mustapha Lebbah, Hanane Azzag, Giraldi Loïc, Anthony Coutant. Functional Non-Parametric Latent Block Model: a Multivariate Time Series Clustering Approach for Autonomous Driving Validation. Computational Statistics and Data Analysis. 2022. https://doi.org/10.1016/j.csda.2022.107565
+
 ### What's inside 
 
 The first approach, named "Clustering", performs the inference of a Dirichet Process Mixture Model on a univariate or multivariate dataset. Optionnally, it enables the user to specify a partition of the variables, thus allowing the creation of "blocks", i.e., groups of variables and simulations that independently follow the same distribution. In the "Clustering" case, this partition is not updated.
