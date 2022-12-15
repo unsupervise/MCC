@@ -2,7 +2,9 @@
 
 This code implements three model based block clustering methods. These models are based on the Dirichlet Process Mixture Model (DPMM, used for univariate dataset clustering) and extends it to multivariate datasets.
 
-Etienne Goffinet, Mustapha Lebbah, Hanane Azzag, Giraldi Loïc, Anthony Coutant. Functional Non-Parametric Latent Block Model: a Multivariate Time Series Clustering Approach for Autonomous Driving Validation. Computational Statistics and Data Analysis. 2022. https://doi.org/10.1016/j.csda.2022.107565
+- **Etienne Goffinet**, Mustapha Lebbah, Hanane Azzag, Giraldi Loïc, Anthony Coutant. Functional Non-Parametric Latent Block Model: a Multivariate Time Series Clustering Approach for Autonomous Driving Validation. Computational Statistics and Data Analysis. 2022. https://doi.org/10.1016/j.csda.2022.107565
+
+- **Reda Khoufache**, Mohamed Djallel Dilmi, Hanene Azzag, Etienne Goffinet, and Mustapha LEBBAH. Emerging properties from Bayesian Non-Parametric for multiple clustering: Application for multi-view image dataset". In workshop DLC@ICDM 2022, Nov. 28 – Dec. 1, Orlando
 
 ### What's inside 
 
